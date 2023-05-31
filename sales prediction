@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd     ##importing libraries
 import matplotlib.pyplot as plt
 
-data=pd.read_csv("C:/Users/JAY CHOWDARY/Desktop/oasis internship/Advertising.csv")  ##importing datasets
+data=pd.read_csv("C:/Users/geethika/Desktop/oasis internship/Advertising.csv")  ##importing datasets
 
 data.head()
 
