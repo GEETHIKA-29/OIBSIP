@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #loading the dat
-df=pd.read_csv("C:/Users/JAY CHOWDARY/Desktop/oasis internship/iris.csv")
+df=pd.read_csv("C:/Users/geethika/Desktop/oasis internship/iris.csv")
 
 df.shape
 
